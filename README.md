@@ -1,7 +1,7 @@
 # Nathaniel-Team-Profile-Generator
 ## Description
 #
-A series of questions through prompts allows the user to create profiles for their various team members.
+A prompt asks a series of questions that allows the user to create profiles for their team members.
 
 ## Installation 
 #
