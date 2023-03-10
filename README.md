@@ -19,6 +19,6 @@ Credit goes to UCI for providing an outline on how to organize all of the folder
 N/A
 ## Deployment / Video Link 
 #
-(https://bignate38.github.io/Work-Day-Scheduler-/)
+(https://drive.google.com/file/d/12bUwwzmBUr4qrva99o-GJ15YCBa6s_uZ/view?usp=sharing)
 ![SiteImage](images/Team-Profile-Pic.png)
 
