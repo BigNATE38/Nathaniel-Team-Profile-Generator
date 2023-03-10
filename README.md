@@ -17,7 +17,7 @@ Credit goes to UCI for providing an outline on how to organize all of the folder
 ## License
 #
 N/A
-## Deployment Link 
+## Deployment / Video Link 
 #
 (https://bignate38.github.io/Work-Day-Scheduler-/)
 ![SiteImage](images/Team-Profile-Pic.png)
