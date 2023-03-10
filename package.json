@@ -1,0 +1,30 @@
+{
+  "name": "nathaniel-team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BigNATE38/Nathaniel-Team-Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BigNATE38/Nathaniel-Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/BigNATE38/Nathaniel-Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
