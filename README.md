@@ -20,5 +20,5 @@ N/A
 ## Deployment Link 
 #
 (https://bignate38.github.io/Work-Day-Scheduler-/)
-![SiteImage](assets/images/Scheduler_Pic.png)
+![SiteImage](images/Team-Profile-Pic.png)
 
